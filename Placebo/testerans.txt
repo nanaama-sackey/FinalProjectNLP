@@ -1,0 +1,11 @@
+Ten
+Fufu
+tumfuo Osei Tutu I
+Cocoa
+Farming
+Ropsten test network, Kovan test network, Rinkeby test network.
+Generally we use the REMIX IDE which is present online, or we can use the Truffle for the development and testing of smart contracts.
+BlockChain is a distributed ledger, which has a shared database based on consensus algorithm.
+POW ( proof of work ) which bitcoin uses, POS ( proof of stake), DPOS ( Delegated proof at stake).
+Hash functions take any string of fixed size ( 256 bits in this case ) and generate a fixed size alphanumeric string
+
