@@ -1,0 +1,10 @@
+How many regions are in Ghana?
+What is the favorite food for people in Ashanti region of Ghana?
+What is the name of the king of the Asantes?
+What cash crop does Ghana export?
+What is the primary occupation in Ghana?
+Why there is a transaction fee included in the transactions of bitcoin and where does it go? 
+How will you define the mining? 
+Can you name some details that are sent to the block of bitcoin? 
+How do the public key and private key generation work? 
+Can you write a smart contract for "Hello Word" in solidity?

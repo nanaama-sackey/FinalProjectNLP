@@ -203,7 +203,7 @@ def topic_model(textfile):
 
 if __name__ == "__main__":
     if(len(sys.argv) != 4):
-    print("Check that you have all your arguments")
+    	print("Check that you have all your arguments")
     
     else:
         if(sys.argv[1]=="topic"):
