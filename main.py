@@ -202,13 +202,10 @@ def topic_model(textfile):
 
 
 if __name__ == "__main__":
-    if(len(sys.argv) != 4):
-    	print("Check that you have all your arguments")
-    
-    else:
-        if(sys.argv[1]=="topic"):
-            topic_model(sys.argv[2])
+	
+    if(sys.argv[1]=="topic"):
+        topic_model(sys.argv[2])
             
-        if(sys.argv[1]=="qa"):
-            answer_question(sys.argv[2])
+    if(sys.argv[1]=="qa"):
+        answer_question(sys.argv[2])
 
